@@ -43,13 +43,16 @@ The game features a built-in local save system, allowing you to track your progr
    ```bash
    git clone [https://github.com/radoslawmijal/Snake](https://github.com/radoslawmijal/Snake)
    cd Snake 
-2.  **Build**
+
+2.  **Build project**
+    ```bash
     cmake -S . -B build
 
-
-3. **Go to build folder**
+3. **Go to 'build' folder**
+    ```bash
     cd build
     cmake --build build
 
 4. **Run the file and have fun**
+    ```bash
     ./Snake
