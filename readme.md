@@ -51,7 +51,7 @@ The game features a built-in local save system, allowing you to track your progr
 3. **Go to 'build' folder**
     ```bash
     cd build
-    cmake --build build
+    make
 
 4. **Run the file and have fun**
     ```bash
